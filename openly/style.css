@@ -1,0 +1,31 @@
+#left {
+	float: left;
+}
+body {
+	background-color: #99FF99;
+	font-family: 'Sans-serif', Ubuntu;
+}
+#center {
+	text-align: Center;
+}
+input { 
+	padding: 9px; 
+	border: solid 1px #E5E5E5; 
+	outline: 0; 
+	font: 'Sans-serif', Ubuntu;
+	width: 450px; 
+	height: 40px;
+	background: #FFFFFF;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	font-size: 20px;
+} 
+#submit { 
+	width: auto; 
+	padding: 9px 15px; 
+	background: #617798; 
+	border: 0; 
+	font-size: 20px; 
+	color: #FFFFFF; 
+}
